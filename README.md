@@ -1,0 +1,2 @@
+# Project Instructions
+- Prettier installation
